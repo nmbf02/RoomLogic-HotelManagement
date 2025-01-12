@@ -1,4 +1,4 @@
-# RoomLogic - Web Software
+# RoomLogic - Hotel Management
 
 ## Description
 
