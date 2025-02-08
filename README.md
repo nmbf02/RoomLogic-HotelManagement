@@ -1,5 +1,7 @@
 # RoomLogic - Hotel Management
 
+![Imagen de Portada](https://raw.githubusercontent.com/nmbf02/RoomLogic-HotelManagement/main/assets/img/section-principal.png)
+
 ## Description
 
 RoomLogic is a modern and intuitive platform designed for comprehensive hotel management, created to optimize operations and improve the guest experience. This system offers an all-in-one solution that simplifies the management of bookings, rooms, and services, allowing hoteliers to focus on what truly matters: delivering exceptional service.
