@@ -41,5 +41,4 @@ This project is open to contributions to improve functionalities or add new feat
 
 ## 📧 Contact
 
-- **Eleazar García:** [ing.eleazargarcia98@gmail.com](mailto:ing.eleazargarcia98@gmail.com)
 - **Nathaly Berroa:** [nathalyberroaf@gmail.com](mailto:nathalyberroaf@gmail.com)
